@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(180deg, #08111f, #060d18);
+  color: #eef4ff;
+}
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
+.card {
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(15, 23, 42, 0.75);
+  border-radius: 20px;
+  padding: 24px;
+}
+a {
+  color: #7dd3fc;
+}
